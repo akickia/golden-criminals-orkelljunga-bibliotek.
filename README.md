@@ -15,3 +15,6 @@ Sprint-planering:
 Teamet består av tre utvecklare med juniora - mediora kunskaper. 
 
 Vi tänker att det finns ett fungerande system idag så databaser kan överföras, behöver alltså inte göras på nytt. 
+
+Sprintmål: 
+Hanterandet av användare/lånekort och böcker i databaserna har CRUD-funktionalitet. 
